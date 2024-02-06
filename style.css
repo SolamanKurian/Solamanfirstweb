@@ -1,0 +1,701 @@
+.container{
+    width: 100%;
+   position:absolute;
+   top: -82px;
+    height: 1080px;
+    object-fit: fill;
+    
+}
+
+body{
+    width: 100%;
+    margin: 0px;
+    
+}
+.box1{
+width: 50%;
+position: absolute;
+top: 0px;
+color: black;
+left: 186px;
+
+}
+.box2{
+    width: 50%;
+    position:absolute;
+    top: 389px;
+    padding-left: 434px;
+}
+.aa{
+    text-decoration: double;
+    color: black;
+    padding-left: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.navbar{
+   position: absolute;
+   top: 45px;
+   padding-left: 400px
+}
+.box3{
+    position: relative;
+    width: 79%;
+    height: 500px;
+    padding: 155px;
+    padding-bottom: 155px;
+    
+   
+    
+}
+
+.box4{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    float: left;
+    transition-duration: .3s;
+
+}
+.box4:hover{
+background-color: rgb(214, 32, 57);
+
+}
+.box4:hover .spbox2{
+    color: white;
+    }
+.box4:hover .btn1{
+    background-color: white;
+    
+}
+.box4:hover .btntxt1{
+    color: black;
+}
+
+.box5{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    float: left;
+
+}
+.box5:hover{
+background-color:  rgb(214, 32, 57);
+}
+.box5:hover .spbox21{
+    color: white;
+}
+.box5:hover .spbox22{
+    color: white;
+}
+.box5:hover .btn2{
+    background-color: white;
+}
+.box5:hover .btntxt2{
+    color: black;
+    
+}
+
+main{
+    position: absolute;
+    top: 975px;
+    
+    
+}
+.box6{
+    position: relative;
+    
+}
+.box7{
+    position: absolute;
+    top: 10px;
+}
+.box8{
+    position:absolute;
+    top: 100px;
+    left:480px;
+    font-size: 50px;
+}
+.box9{
+    position: absolute;
+    top: 180px;
+    left: 400px;
+    font-size: 25px;
+}
+.box10{
+    position: relative; 
+    top: 700px;
+    width:103%;
+    height: 700px;
+    background-color: rgb(209, 26, 26);
+    
+}
+
+.box12{
+    position: absolute;
+    left: 490px;
+    top: 100px;
+    color: white;
+    font-size: 50px;
+}
+.box13{
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+.box14{
+    position: absolute;
+    left: 570px;
+    top: 300px;
+}
+.box15{
+    position: absolute;
+    left: 900px;
+    top: 300px;
+}
+.box16{
+position: absolute;
+left: 265px;
+top: 570px;
+color: white;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.box17{
+    position: absolute;
+    left: 600px;
+    top: 570px;
+    color: white;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.box18{
+    position: absolute;
+    left: 945px;
+    top: 570px;
+    color: white;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.box19{
+    position: absolute;
+    left: 945px;
+    top: 600px;
+    color: white;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.box20{
+    position: absolute;
+    left: 615px;
+    top: 600px;
+    color: white;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.box21{
+    position: absolute;
+    left: 275px;
+    top: 600px;
+    color: white;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.box22{
+    position: absolute;
+    left: 1200px;
+    top: 370px;
+    color: rgb(185, 180, 180);
+    font-size: 60px;
+    
+
+}
+.box23{
+    position: absolute;
+    left: 130px;
+    top: 370px;
+    color: rgb(185, 180, 180);
+    font-size: 60px;
+    
+
+}
+.box24{
+    position: relative;
+    top: 700px;
+    width: 103%;
+    height: 320px;
+    background-color:white;
+   
+    
+
+}
+.box25{
+    position: absolute;
+    top: 60px;
+    left: 235px;
+    width: 190px;
+    height: 190px;
+    border-style: solid;
+    background-color: white;
+    border-radius: 50%;
+    border-color:black;
+    border-width: 1px;
+    
+
+}
+.box26{
+    position: absolute;
+    top: 60px;
+    left: 570px;
+    width: 190px;
+    height: 190px;
+    border-style: solid;
+    background-color: white;
+    border-radius: 50%;
+    border-color:black;
+    border-width: 1px;
+    
+
+}
+.box27{
+    position: absolute;
+    top: 60px;
+    left: 900px;
+    width: 190px;
+    height: 190px;
+    border-style: solid;
+    background-color: white;
+    border-radius: 50%;
+    border-color:black;
+    border-width: 1px;
+
+}
+.ltr1{
+    position: absolute;
+    left: 60px;
+    top: 50px;
+    font-size: 40px;
+}
+.ltr12{
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    font-size: 25px;
+    text-align: center;
+}
+.ltr2{
+    position: absolute;
+    left: 75px;
+    top: 50px;
+    font-size: 40px;
+}
+.ltr22{
+    position: absolute;
+    left: 57px;
+    top: 100px;
+    font-size: 25px;
+    text-align: center;
+}
+.ltr3{
+    position: absolute;
+    left: 64px;
+    top: 50px;
+    font-size: 40px;
+}
+.ltr32{
+    position: absolute;
+    left: 45px;
+    top: 100px;
+    font-size: 25px;
+    text-align: center;
+}
+.box28{
+    position: absolute;
+    top: 28px;
+    left: 0px;    
+}
+.box29{
+    position: absolute;
+    top: 0px;
+    left: 1112px;
+}
+.box30{
+    position: relative;
+    width: 100%;
+    top: 708px;
+}
+.box31{
+    position: absolute;
+    top: 0px;
+}
+.box32{
+    position: absolute;
+    top: 100px;
+    left: 178px;
+    color: white; 
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 71px;
+}
+.box33{
+    position: absolute;
+    top: 180px;
+    left: 178px;
+    color: white; 
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 71px;
+}
+.box34{
+    position: absolute;
+    top: 290px;
+    left:178px ;
+    color: white; 
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 19px;
+}
+.box35{
+    position: relative;
+    width: 103%;
+    height: 800px;
+    top: 1275px;
+    background-color:white;
+}
+.box36{
+    position: absolute;
+    top: 78px;
+    left: 485px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 45px;
+}
+.box37{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    top: 230px;
+    left: 200px;
+    background-color: aquamarine;
+    float: left;
+    
+}
+.box38{
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    top: 180px;
+    left: 750px;
+    background-color: white;
+    float: left;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 45px;
+    
+}
+.box39{
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    top: 380px;
+    left: 750px;
+    background-color:white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 19px;
+    
+}
+.box40{
+    position: absolute;
+    top:650px ;
+    left: 750px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 19px;
+}
+.box41{
+    position: absolute;
+    top:600px ;
+    left: 200px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 17px;
+}
+.box42{
+   position: relative;
+    width: 100%;
+    height: 500px;
+    top: 4850px;
+    background-color: rgb(201, 40, 40);
+}
+.box43{
+    position: absolute;
+    top: 10px;
+    left: 186px;
+    width: 500px;
+   
+}
+.box44{
+    position: absolute;
+    top: 50px;
+    left: 510px;
+   
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 19px;
+}
+.box45{
+    position: absolute;
+    top: 50px;
+    left: 860px;
+   
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 19px;
+}
+.box46{
+    position: absolute;
+    top: 80px;
+    left: 860px;
+   
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 39px;
+}
+.box47{
+    position: absolute;
+    top: 150px;
+    left: 860px;
+   
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 22px;
+}
+.box48{
+    position: absolute;
+    top: 250px;
+    left: 860px;
+   
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+}
+.box49{
+    position: absolute;
+    top: 400px;
+    left: 260px;
+    
+   
+    color:black;
+   
+}
+.box50{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+   
+    color:black;
+   
+}.box51{
+    position: absolute;
+    top: 400px;
+    left: 350px;
+   
+    color:black;
+   
+}
+.chatbox{
+    position: fixed;
+    top: 565px;
+    left: 1130px;
+    width: 200px;
+    height: 55px;
+    background-color: rgb(98, 102, 102);
+    border-radius: 10px;
+    z-index: 10;
+}
+.chaticon{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    
+    background-color: rgb(98, 102, 102);
+}
+.iconmsg{
+    position: absolute;
+    top: 13px;
+    left: 80px;
+    color: white;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 18px;
+}
+.spbox1{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    z-index: 1;
+    font-size: 55px;
+}
+.spbox2{
+    position: absolute;
+    top: 360px;
+    left: 200px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 19px;
+    transition-duration: 1s;
+}
+.spbox21{
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    z-index: 1;
+    font-size: 55px;transition-duration: .5s;
+    
+}
+.spbox22{
+    position: absolute;
+    top: 360px;
+    left: 700px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 19px;
+    transition-duration: 1s;
+    
+}
+.btn1{
+    position: absolute;
+    top:560px ;
+    left:200px ;
+    width: 170px;
+    height: 45px;
+    text-decoration-color: white;
+    background-color: rgb(216, 35, 35);
+    border-color: black;
+    border-radius: 23px;
+    border-style: solid;
+    border-width: 2px;
+    transition-duration: 1s;
+  
+}
+.btn1:hover{
+    border-color: white;
+}
+.btn2{
+    position: absolute;
+    top:560px ;
+    left:700px ;
+    width: 170px;
+    height: 45px;
+    background-color: rgb(216, 35, 35);
+    border-color: black;
+    border-radius: 23px;
+    border-style: solid;
+    border-width: 2px;
+   transition-duration: 1s;
+    
+  
+}
+.btn2:hover{
+    border-color: white;
+}
+.btntxt2{
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+.btntxt1{
+    position: absolute;
+    top: 15px;
+    left: 38px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    transition-duration: 1s;
+
+}
+.btn3{
+    position: absolute;
+    top:260px ;
+    left:580px ;
+    width: 170px;
+    height: 45px;
+    background-color: rgb(216, 35, 35);
+    border-color: black;
+    border-radius: 23px;
+    border-style: solid;
+    border-width: 2px;
+    
+  
+}
+.btntxt3{
+    position: absolute;
+    top: 15px;
+    left: 34px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+.btn4{
+    position: absolute;
+    top:430px ;
+    left:175px ;
+    width: 215px;
+    height: 45px;
+    background-color: rgb(216, 35, 35);
+    border-color: black;
+    border-radius: 23px;
+    border-style: solid;
+    border-width: 2px;
+    
+  
+}
+.btntxt4{
+    position: absolute;
+    top: 15px;
+    left: 41px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+.txtclr{
+    text-decoration: none;
+    color: white;
+}
+.txtclr2{
+    color: black;
+}
+
